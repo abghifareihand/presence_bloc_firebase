@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515117319835",
+    "project_id": "presence-bloc-app",
+    "storage_bucket": "presence-bloc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515117319835:android:64c60fddbb530efe8aa83e",
+        "android_client_info": {
+          "package_name": "com.example.presence_bloc_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsvPnxyxSIuGUImkGBtlP7dvtQWIdx-yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
